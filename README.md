@@ -1,4 +1,4 @@
-# Leaf_diesease-Detection
+# Leaf Prediction and Diesease Detection
 
 ## Problem Statement:
 The proposed solution worked by analysing the images of the plants’ leaves in a manner similar to how our brain works ( in simple outlined way), by segregating the problem statement into smaller and smaller problems and then extracting value from the machine learning models trained over large image dataset of various infected leaves to get the final disease the plant is affected with.
